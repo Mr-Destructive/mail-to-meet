@@ -100,4 +100,4 @@ EMAIL_HOST_PASSWORD = os.getenv("GAPP_PSWD")
 EMAIL_PORT = 587 
 EMAIL_USE_TLS = True 
 
-CORS_ORIGIN_WHITELIST ='http://127.0.0.1:8080', 'https://mail-to-meet.herokuapp.com',
+CORS_ORIGIN_WHITELIST ='http://127.0.0.1:8080', 'https://mr-destructive.github.io',
